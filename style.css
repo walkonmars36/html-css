@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;500&family=Source+Serif+Pro:wght@700&display=swap");
+
+body {
+  background-color: #8e73a7;
+  font-family: "Nunito", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h1:hover {
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+h3:active {
+  color: green;
+  text-decoration: underline;
+}
+
+p {
+  font-weight: 400;
+}
+#email-input {
+  background-color: lightcoral;
+}
+
+.dominant-hand {
+  color: white;
+}
